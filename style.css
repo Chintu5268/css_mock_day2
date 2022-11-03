@@ -18,7 +18,7 @@
   background: rgb(0, 255, 55);
   position: relative;
   animation: sandesh 5s infinite;
-  animation-delay: 2s;
+  animation-delay: 5s;
 }
 
 @keyframes sandesh {
